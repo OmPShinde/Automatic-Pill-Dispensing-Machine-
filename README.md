@@ -59,7 +59,3 @@ In parallel:
 - Data logging
 - Caregiver remote monitoring
 - Support for multiple medications
-
-## Note
-
-This repository contains the project documentation only. The original Arduino source code is not included.
