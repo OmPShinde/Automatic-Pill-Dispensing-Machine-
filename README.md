@@ -51,17 +51,6 @@ In parallel:
 - The DHT11 readings are shown on the LCD, with alerts if they go out of range.
 - The tilt sensor pauses the system if the device is tilted and triggers alerts.
 
-## Block Diagram
-
-![Block diagram](images/block-diagram.png)
-
-## Circuit Diagram
-
-![Circuit diagram](images/circuit-diagram.png)
-
-## Documentation
-
-Full project report: [Medicine_Dispenser_Report.pdf](docs/Medicine_Dispenser_Report.pdf)
 
 ## Future Scope
 
